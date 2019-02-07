@@ -1,0 +1,14 @@
+RANK	NAME	STORAGE	VALUETYPE	KEYLEVEL	ORDERLEVEL	MISSINGSTRING	GROUPNAME	DESCRIPTION
+0	ID	integer	nominal	1	0			
+1	SEX	string	nominal	0	0			
+2	MARITAL_STATUS	string	nominal	0	0			
+3	GEOID	integer	nominal	1	0			
+4	EDUCATIONNUM	integer	ordinal	0	0			
+5	OCCUPATION	string	nominal	0	0			
+6	CONT1	number	continuous	0	0			
+7	CONT2	number	continuous	0	0			
+8	CONT3	number	continuous	0	0			
+9	NOM1	string	nominal	0	0			
+10	NOM2	string	nominal	0	0			
+11	NOM3	string	nominal	0	0			
+12	age	integer	continuous	0	0			

@@ -1,0 +1,5 @@
+RANK	NAME	STORAGE	VALUETYPE	KEYLEVEL	ORDERLEVEL	MISSINGSTRING	GROUPNAME	DESCRIPTION
+0	EVENTID	integer	nominal	1	0			
+1	REFID	integer	nominal	1	1			
+2	EVENT_DATE	datetime	continuous	0	0			
+3	AMOUNT	number	continuous	0	0			
